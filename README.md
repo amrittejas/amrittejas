@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Amritansh Tejas</h1>
 <h3 align="center">0x. A passionate Fullstack developer , interested in M.L. and IOT integration</h3>
 
-- 🔭 Connect for freelance projects [amritanshofficial82@gmail.com](amritanshofficial82@gmail.com)
+- 🔭 Connect for freelance projects [Connect With Me](amritanshofficial82@gmail.com)
 
 - 🌱 I’m currently working on **Spring Boot  and React JS**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-x3ry.vercel.app/](https://react-portfolio-x3ry.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-wheat-delta-25.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/amritansh-tejas](https://www.linkedin.com/in/amritansh-tejas)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/amritansh-tejas)
 
 - 💬 Ask me about **Core Java , Spring Boot , React JS , Javascript , Machine Learning , IOT **
 
 - 📫 How to reach me **amritanshofficial82@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v0d4N_NmAHRXe1Zy0B4pX1tDso252lWZ/view?usp=sharing](https://drive.google.com/file/d/1v0d4N_NmAHRXe1Zy0B4pX1tDso252lWZ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dty2dx4lU6lR8rXxoQ5UrK6LgJ5qaBAH/view?usp=sharing)
 
 - ⚡ Fun fact **Turning Coffee into Code and Bugs into Features**<br>
   <br>
